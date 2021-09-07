@@ -2,6 +2,7 @@
 	"author": "Lokesh Singhania",
 	"description": "Maybe I will do something.",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["node","api","learning-backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
