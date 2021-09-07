@@ -3,6 +3,7 @@
 	"description": "Maybe I will do something.",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["node","api","learning-backend","freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
